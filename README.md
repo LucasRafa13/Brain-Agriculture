@@ -99,6 +99,11 @@ npm run test
 
 ---
 
+## 📚 Acesse a API via nuvem
+A API está hospedada no Railway e pode ser acessada através do seguinte link:
+[https://brain-agriculture-production.up.railway.app/api](https://brain-agriculture-production.up.railway.app/api)
+---
+
 ## 🔥 Autor
 
 Desenvolvido por **Lucas Rafael** como parte do desafio técnico da Brain Agriculture.
