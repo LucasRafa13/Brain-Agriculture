@@ -4,6 +4,7 @@ import { FarmModule } from './farm/farm.module';
 import { PrismaModule } from './database/prisma.module';
 import { HarvestModule } from './harvest/harvest.module';
 import { CropModule } from './crop/crop.module';
+import { DashboardModule } from './dashboard/dashboard.module';
 
 @Module({
   imports: [
@@ -12,6 +13,7 @@ import { CropModule } from './crop/crop.module';
     FarmModule,
     HarvestModule,
     CropModule,
+    DashboardModule,
   ],
 })
 export class AppModule {}
